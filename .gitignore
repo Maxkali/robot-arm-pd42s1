@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# 日志
+logs/
+*.log
+
+# 配置/敏感
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 相机标定临时文件
+camera_calib.npz
+calib_*.jpg
